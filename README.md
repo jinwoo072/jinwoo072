@@ -90,12 +90,13 @@
 <br/>
 <hr/>
 
-<!-- GitHub Stats -->
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbarathkumar&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=technologyhell&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
-
 ![snake gif](https://github.com/jinwoo072/jinwoo072/blob/output/github-snake-dark.svg)
+
 
 
