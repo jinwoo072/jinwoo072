@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/gbarathkumar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="mailto:gbarathkumar2004@gmail.com">
+<a href="https://www.instagram.com/barathkumar_bk_offl/">
     <img src="https://img.shields.io/badge/instagram-333333?style=for-the-badge&logo=instagram&logoColor=red" />
   </a>
     
