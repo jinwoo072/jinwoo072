@@ -45,8 +45,9 @@
 <h2 align="center">⚒ Tech Stack ⚒</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,wordpress,figma,xd,canva" />
+    <img src="https://skillicons.dev/icons?i=html,java,wordpress,figma,css,xd,c,notion,javascript" />
     <img src="https://skillicons.dev/icons?i=vscode,github,git" />
+
 </div>
 
 <br/>
